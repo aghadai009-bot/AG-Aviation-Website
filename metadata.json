@@ -1,0 +1,6 @@
+{
+  "name": "AG Aviation",
+  "description": "Fly Beyond Expectations. Luxury private aviation tailored to your schedule, based in Paris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
