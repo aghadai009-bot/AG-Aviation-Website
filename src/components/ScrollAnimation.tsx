@@ -18,7 +18,7 @@ export const ScrollAnimation: React.FC = () => {
 
     const frameCount = 240; // 0 to 239
     const currentFrame = (index: number) => (
-      `AG Aviation Images/frame_${index.toString().padStart(6, '0')}.png`
+      `/AG Aviation Images/frame_${index.toString().padStart(6, '0')}.png`
     );
 
     const images: HTMLImageElement[] = [];
